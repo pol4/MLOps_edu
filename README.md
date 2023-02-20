@@ -1,4 +1,3 @@
-# otus-ml-skel_custom
 Учебный проект по MLOps
 
 Описание задачи:
