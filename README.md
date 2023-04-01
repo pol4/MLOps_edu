@@ -103,4 +103,5 @@
 ## Решение
 
 1. s3://mlopss3storage0001/afraud/
-2. 
+2. ![image](https://user-images.githubusercontent.com/25837190/229320080-05c11454-95f6-42c8-a454-8a7a9f93d294.png)
+3. 
